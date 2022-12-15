@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/React-API-drinks/static/css/main.274aee27.css",
-    "main.js": "/React-API-drinks/static/js/main.f745420f.js",
-    "static/media/logo.svg": "/React-API-drinks/static/media/logo.03bee003a9e756a95c737b03266ebb90.svg",
-    "index.html": "/React-API-drinks/index.html",
-    "main.274aee27.css.map": "/React-API-drinks/static/css/main.274aee27.css.map",
-    "main.f745420f.js.map": "/React-API-drinks/static/js/main.f745420f.js.map"
+    "main.css": "/React-API-drinks/index.html/static/css/main.274aee27.css",
+    "main.js": "/React-API-drinks/index.html/static/js/main.f4f2b98d.js",
+    "static/media/logo.svg": "/React-API-drinks/index.html/static/media/logo.03bee003a9e756a95c737b03266ebb90.svg",
+    "index.html": "/React-API-drinks/index.html/index.html",
+    "main.274aee27.css.map": "/React-API-drinks/index.html/static/css/main.274aee27.css.map",
+    "main.f4f2b98d.js.map": "/React-API-drinks/index.html/static/js/main.f4f2b98d.js.map"
   },
   "entrypoints": [
     "static/css/main.274aee27.css",
-    "static/js/main.f745420f.js"
+    "static/js/main.f4f2b98d.js"
   ]
 }
